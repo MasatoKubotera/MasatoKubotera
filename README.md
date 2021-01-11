@@ -25,4 +25,11 @@
     </a>
 </details>
 
+<details open>
+  <summary><b>Basics Programming</b></summary>
+    <a href="https://github.com/MasatoKubotera/Othello">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=Othello&theme=react" />
+    </a>
+</details>
+
 <!--https://github.com/anuraghazra/github-readme-stats-->
