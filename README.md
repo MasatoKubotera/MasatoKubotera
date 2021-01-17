@@ -26,6 +26,13 @@
 </details>
 
 <details open>
+  <summary><b>Numerical-Analysis (CIT-Advanced-Robotics-B2)</b></summary>
+    <a href="https://github.com/MasatoKubotera/monte_carlo">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=monte_carlo&theme=react" />
+    </a>
+</details>
+
+<details open>
   <summary><b>Robot-Programming (CIT-Advanced-Robotics-B1)</b></summary>
     <a href="https://github.com/MasatoKubotera/calculator_vscode">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=calculator_vscode&theme=react" />
