@@ -1,6 +1,7 @@
 [![Twitter](https://img.shields.io/twitter/follow/CreateRoboCup?style=social)](https://twitter.com/CreateRoboCup)
 
-<img src="https://github-readme-stats.vercel.app/api?username=MasatoKubotera&count_private=true&theme=react" />
+<img src="https://github-readme-stats.vercel.app/api?username=MasatoKubotera&count_private=true&theme=react&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MasatoKubotera&count_private=true&hide=G-code&layout=compact&theme=react" />
 
 <details open>
   <summary><b>Setup Scripts</b></summary>
@@ -46,4 +47,5 @@
     </a>
 </details>
 
-<!--https://github.com/anuraghazra/github-readme-stats-->
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<!-- https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_ja.md -->
