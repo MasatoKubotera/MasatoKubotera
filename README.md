@@ -23,7 +23,7 @@
     </a>
 </details>
 
-<details open>
+<details>
   <summary><b>Robosys (CIT-Advanced-Robotics-B2)</b></summary>
     <a href="https://github.com/MasatoKubotera/RGBLED_RaspPi4_DeviceDriver">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=RGBLED_RaspPi4_DeviceDriver&theme=react" />
@@ -33,24 +33,34 @@
     </a>
 </details>
 
-<details open>
+<details>
   <summary><b>Numerical-Analysis (CIT-Advanced-Robotics-B2)</b></summary>
     <a href="https://github.com/MasatoKubotera/monte_carlo">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=monte_carlo&theme=react" />
     </a>
 </details>
 
-<details open>
+<details>
   <summary><b>Robot-Programming (CIT-Advanced-Robotics-B1)</b></summary>
     <a href="https://github.com/MasatoKubotera/calculator_vscode">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=calculator_vscode&theme=react" />
     </a>
 </details>
 
-<details open>
+<details>
   <summary><b>Basics-Programming (CIT-Advanced-Robotics-B1)</b></summary>
     <a href="https://github.com/MasatoKubotera/Othello">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=Othello&theme=react" />
+    </a>
+</details>
+
+<details open>
+  <summary><b>VScode</b></summary>
+    <a href="https://github.com/MasatoKubotera/vscode_c_default_win">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=vscode_c_default_win&theme=react" />
+    </a>
+    <a href="https://github.com/MasatoKubotera/vscode_cpp_default_win">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=vscode_cpp_default_win&theme=react" />
     </a>
 </details>
 
