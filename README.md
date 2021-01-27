@@ -55,7 +55,7 @@
 </details>
 
 <details open>
-  <summary><b>VScode</b></summary>
+  <summary><b>VScode default files</b></summary>
     <a href="https://github.com/MasatoKubotera/vscode_c_default_win">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=vscode_c_default_win&theme=react" />
     </a>
