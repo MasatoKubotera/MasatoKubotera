@@ -12,9 +12,11 @@
 
 <details open>
   <summary><b>Setup Scripts</b></summary>
+  <!--
     <a href="https://github.com/MasatoKubotera/ubuntu_setup_scripts">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=ubuntu_setup_scripts" />
     </a>
+  --->
     <a href="https://github.com/MasatoKubotera/vscode_setup_script">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=vscode_setup_script" />
     </a>
