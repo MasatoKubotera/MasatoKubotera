@@ -20,9 +20,11 @@
     <a href="https://github.com/MasatoKubotera/vscode_setup_script">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=vscode_setup_script" />
     </a>
+  <!--
     <a href="https://github.com/MasatoKubotera/wsl_setup_script">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MasatoKubotera&repo=wsl_setup_script" />
     </a>
+  --->
 </details>
 
 <details>
