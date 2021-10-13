@@ -1,7 +1,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/CreateRoboCup?style=social)](https://twitter.com/CreateRoboCup)
 
-
-<img src="https://lh3.googleusercontent.com/eYXJUjlVUtJsWaZ5ZlNRFhYNUKsuSaAK1e_fUmYcWqEfh3jkINPCO_ysfrHJcjSyxuzCJ-zZPRAFX2SHF_YBOvMQF2QpZ4EvuTnBPESUc92gaR3a29qwsWAaCU_PbxnbBRbhokTDKMgp1rZL7YzCxM4hjY8qsfyq7dfJgSUT78IrhRVMHWy5mg-6MRbSEbT6ErFrdxrrinqzkPKNGLaZsTub-LcDKdduDbTt4OcHuZrUTA5UqceYvaza7Y9il5fPkaVmWtlShS_TjJdZleKc8EnegtAuOs5yQR82ipLASN1gteoPhnvpNjgI2weG8aK6ckORPE6-WSFJnoyXp1YQ_HsKoQsthTy5LvRGxlfyGLSbl6whMSp9pb9DR3Gr5zB4s0lgUjD1C_pbpDiyrlb7qViFcQAZTnpf_uHpYhOcWGyK4ed2vx-wyav6sSVa-AEVBe8e8BsRId-rB0A7aOsItCotAVqHm9cm87t0I6QaqYR-WQeLQBpQCpNeWeMVZaUNEyzw2uIgj0zRZtGHa7RbJykujS4eEFhCp6jReFk7qyNwIqYbOPqQqWvs0VeEPNqNbX4gYMmFQS-V0K5TGRo5dvwYGwD9x7EdAl66H1yJdqoHbXyjmaHWWBLbCOcYSJsAZJ123k4HYtGqHmTvqGHcuRtKq5gE1Vc4ZqVecBvcw3Sxq1gXK0N27r2puTpIasHKMKx_ItzWI7KptoUbyXxrxtS9AA=w2508-h1880-no?authuser=0" width="320px">
+<img src="https://user-images.githubusercontent.com/53966390/137057928-7e02a7da-d997-4546-b7e0-b9f24328c327.png" width="320px">
 
 <details open>
   <summary><b>Profile</b></summary>
