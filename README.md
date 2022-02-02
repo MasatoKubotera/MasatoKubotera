@@ -7,7 +7,7 @@ CIT Brains web site : http://www.cit-brains.net/
 
 CITBrains Twitter :　[![Twitter](https://img.shields.io/twitter/follow/citbrains?style=social)](https://twitter.com/citbrains)
 
-<img src="https://user-images.githubusercontent.com/53966390/145047353-2ccd2e42-53b5-49eb-a638-3d3dbcad9299.png" width="320px"><img src="https://user-images.githubusercontent.com/53966390/145048469-acd81c9e-44cf-474f-ba31-9b8aa1120b26.png" width="320px">
+<img src="https://user-images.githubusercontent.com/53966390/145048469-acd81c9e-44cf-474f-ba31-9b8aa1120b26.png" width="320px">
 
 <details open>
   <summary><b>Profile</b></summary>
