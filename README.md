@@ -1,4 +1,5 @@
-Hello, I'm Masato Kubotera. My name is Masato Kubotera.
+Hello, I'm Masato Kubotera. 
+
 After joining RoBoCupJunior, I'm now doing mechanical design and circuit design for CIT Brains, a team of students from Chiba Institute of Technology in RoboCup Soccer Humanoid League.
 
 My Twitter  : [![Twitter](https://img.shields.io/twitter/follow/CreateRoboCup?style=social)](https://twitter.com/CreateRoboCup)
