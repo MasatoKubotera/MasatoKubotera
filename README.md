@@ -48,6 +48,11 @@ The outcome is shown below.
       <li><a href="https://github.com/MasatoKubotera/USB-RS485_ConversionAdapter_ver2_1">USB-RS485 Conversion Adapter Ver. 2.1</a></li>
     </ul>
   </li>
+  <li>USB-Audio
+    <ul>
+      <li><a href="https://github.com/MasatoKubotera/USB-Audio_ver1_0">USB-Audio Ver. 1.0</a></li>
+    </ul>
+  </li>
   <li>Other Circuit Board
     <ul>
       <li><a href="https://github.com/MasatoKubotera/ICM-42688-P_Module">ICM-42688-P Module</a></li>
