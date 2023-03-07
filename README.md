@@ -29,7 +29,6 @@ The outcome is shown below.
     <ul>
       <li><a href="https://github.com/MasatoKubotera/EN715_ExpansionBoard_ver1_0">EN715 Expansion Board Ver. 1.0</a></li>
       <li><a href="https://github.com/MasatoKubotera/EN715_ExpansionBoard_ver1_1">EN715 Expansion Board Ver. 1.1</a> (Now installed)</li>
-      <li><a href="https://github.com/MasatoKubotera/EN715_ExpansionBoard_ver1_2">EN715 Expansion Board Ver. 1.2</a> (Developing)</li>
     </ul>
   </li>
   <li>Control Push Buttons Board
